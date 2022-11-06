@@ -15,7 +15,7 @@ public class SimpleGetRequest {
 
         System.out.println("response.statusCode() = " + response.statusCode());
 
-        System.out.println("----------------------------------------------------");
+        System.out.println("------------------------------------------------------");
 
         response.prettyPrint();
 
